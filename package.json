@@ -80,7 +80,7 @@
     "mocha": "^6.0.0",
     "moment": "^2.14.1",
     "typescript": "^3.5.3",
-    "uglify-js": "git://github.com/mishoo/UglifyJS2.git#1db50c3b169ee4195e1935013d6721628eb5b4bd"
+    "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#1db50c3b169ee4195e1935013d6721628eb5b4bd"
   },
   "engines": {
     "node": ">=4.0.0"
